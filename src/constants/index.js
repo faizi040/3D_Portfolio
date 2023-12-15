@@ -256,7 +256,7 @@ import {
         },
       ],
       image: project5,
-      source_code_link: "https://github.com/faizi040/iNoteBook",
+      source_code_link: "https://github.com/faizi040/3D_Portfolio",
     },
   ];
   
