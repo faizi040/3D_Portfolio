@@ -16,6 +16,7 @@ import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
+import solidity from "./tech/solidity.png"
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import carrent from "./carrent.png";
@@ -61,4 +62,5 @@ export {
   project2,
   project4,
   project5,
+  solidity,
 };

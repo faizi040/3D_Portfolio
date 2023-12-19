@@ -12,18 +12,15 @@ import {
     nodejs,
     mongodb,
     git,
-    
     logo2,
     logo3,
    logo1,
-    carrent,
-    jobit,
-    tripguide,
     bootstrap2,
     project1,
     project2,
     project4,
     project5,
+    solidity,
   } from "../assets";
   
   export const navLinks = [
@@ -88,6 +85,10 @@ import {
     {
       name: "Node JS",
       icon: nodejs,
+    },
+    {
+      name: "Solidity",
+      icon: solidity,
     },
     {
       name: "MongoDB",
